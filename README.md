@@ -88,8 +88,8 @@ Explore the `notebooks/` directory to see experiments, tests, and results relate
 
 ## 🙋‍♂️ Author
 
-**Kushaagra Mehta**  
-Connect with me on [LinkedIn](https://linkedin.com/in/kushaagraMehta) | [GitHub](https://github.com/kushaagraExe)
+**Pratyush Kumar**  
+
 
 <!-- ## 📄 License
 
