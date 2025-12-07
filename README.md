@@ -1,5 +1,5 @@
-# 🛍️ Multi Agent Ai Shopping Assistant
-
+# 🛍️ DL FINAL YEAR PROJECT-Multi Agent Ai Shopping Assistant
+For the project evaluation you are requested to check the report file present in the repo and also the end of the readme file which contains the live video demo of the working project.
 An AI-powered shopping assistant application that helps users recognize products from images, ask questions about those products, retrieve purchase links, and fetch relevant information from Wikipedia. The app is available in two modes: a manual app interface and a fully automated multi-agentic chatbot system.
 
 ## 🧠 Key Features
@@ -19,11 +19,17 @@ An AI-powered shopping assistant application that helps users recognize products
 ### 4. 🌐 Wikipedia Info Retrieval
 - Fetches general and encyclopedic knowledge about the product from Wikipedia
 - Helpful for background or historical information
-## 🧠 Technologies and Frameworks Used
-   - Langgraph
-   - Langchain
-   - Generative Ai
-   - LLMs
+## 🧠Technologies and Frameworks Used
+LangGraph
+LangChain
+Generative AI
+Large Language Models (LLMs)
+Vision Transformer (ViT)
+PyTorch
+Streamlit
+Python
+HuggingFace Transformers
+Git and GitHub
 
 ## 🤖 Components
 
@@ -51,8 +57,8 @@ An AI-powered shopping assistant application that helps users recognize products
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kushaagra-exe/MultiAgent-ShoppeeAssistant.git
-   cd kushaagra-exe-multiagent-shoppeeassistant
+   git clone https://github.com/Pratyush-exe/MultiAgent-ShoppeeAssistant.git
+   cd Pratyush-exe-multiagent-shoppeeassistant
    ```
 
 2. Install required libraries:
