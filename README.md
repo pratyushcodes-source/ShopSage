@@ -1,7 +1,9 @@
 # 🛍️ DL FINAL YEAR PROJECT-Multi Agent Ai Shopping Assistant
 ## Team members-
 Pratyush Kumar-102215229
+
 Arnav Arora-102215185
+
 Akal Vijay Pratap-102215095
 
 For the project evaluation you are requested to check the report file present in the repo and also the end of the readme file which contains the live video demo of the working project.
